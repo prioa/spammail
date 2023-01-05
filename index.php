@@ -10,7 +10,7 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=VT323&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" crossorigin="anonymous">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@48,400,0,0" />
     <link href="/assets/css/main.css" rel="stylesheet">
     <script src="https://code.jquery.com/jquery-3.6.1.js" integrity="sha256-3zlB5s2uwoUzrXK3BT7AX3FyvojsraNFxCc2vC/7pNI=" crossorigin="anonymous"></script>
@@ -55,7 +55,7 @@
                         <span class="material-symbols-outlined icon-sync">sync</span>
                     </div>
                     <div id="msg-items">
-                        <div id="msg-items"><div class="msg-item"><span class="msg-item-name">spammail@dubdev.io</span><span class="msg-item-subject">Welcome!</span><span class="msg-item-time">now</span></div></div>
+                        <div id="msg-item"><div class="msg-item"><span class="msg-item-name">spammail@dubdev.io</span><span class="msg-item-subject">Welcome!</span><span class="msg-item-time">now</span></div></div>
                     </div>
                 </div>
                 <div class="msg-area">
@@ -64,15 +64,5 @@
             </div>
         </div>
     </main>
-
 </body>
 </html>
-<script>
-    
-
-    
-
-
-
-
-</script>
